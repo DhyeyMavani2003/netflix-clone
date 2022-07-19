@@ -2,6 +2,8 @@ This is a Netflix Clone engineered using ReactJS along with APIs like TMDB and Y
 
 Check out the website here: https://netflix-clone-741bc.web.app/
 
+Used the boostrapping fo Create My React App template 
+
 **Features**
   
 Dynamic Data for top movies in all categories using TMDB API.<br/>
